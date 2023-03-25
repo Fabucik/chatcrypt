@@ -1,0 +1,2 @@
+# chatcrypt
+CLI chat application
