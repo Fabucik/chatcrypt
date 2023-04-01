@@ -1,0 +1,5 @@
+client/keys/*
+!client/keys/.gitignore
+
+client/database/*
+!client/database/.gitignore
